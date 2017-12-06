@@ -2,5 +2,4 @@
 subdirs = [
     "wifi/keystore/1.0",
     "wifi/keystore/1.0/vts/functional",
-    "net",
 ]
